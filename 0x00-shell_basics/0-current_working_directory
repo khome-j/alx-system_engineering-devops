@@ -1,2 +1,2 @@
-#!/bin/bashgitgit 
+#!/bin/bash
 echo $(pwd)
